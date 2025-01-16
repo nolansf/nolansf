@@ -9,7 +9,7 @@ Hi, I'm Nolan! 🎉 I'm passionate about cybersecurity, software development, an
 
 ## 🌟 Featured Projects
 
-###🏦 Bank Simulation App
+### 🏦 Bank Simulation App
 Tech Stack: Java, Terminal UI
   Simulates essential banking operations like deposits, withdrawals, and account management.
   Focused on providing a smooth, user-friendly interface via the terminal.
