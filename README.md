@@ -36,6 +36,6 @@ Tech Stack: Java, Terminal UI
 
 ## 📫 Let's Connect!
 
-  LinkedIn: Your LinkedIn Profile (Add your LinkedIn link here)
-  Email: Your Email Address
-  Feel free to check out my repositories, and let's collaborate on something awesome!
+LinkedIn: [Nolan Flynn](https://www.linkedin.com/in/nolan-flynn-478932301/)
+Email: nsflynn@utica.edu
+Feel free to check out my repositories, and let's collaborate on something awesome!
