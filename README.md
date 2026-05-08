@@ -1,48 +1,47 @@
+## Nolan Flynn
+SOC Analyst candidate · B.S. Cybersecurity (Cyber Ops, DFIR) · Utica University '26
 
-# 👋 Welcome to My GitHub Profile!
-Hi, I'm Nolan! 🎉 I'm passionate about cybersecurity, software development, and building innovative projects that solve real-world problems. Whether it's configuring systems, creating engaging apps, or designing personalized tools, I aim to continuously improve and grow as a professional in the tech field.
+![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=flat-square)
+![CySA+](https://img.shields.io/badge/CySA%2B-In%20Progress-orange?style=flat-square)
 
-## 🚀 About Me
+---
 
-### 🏃 Athlete: Compete in track and field, striving for excellence in the 400m event. Ranked top 50 in NCAA Division III, aiming higher!
-### 📚 Lifelong Learner: Certified in CompTIA Sec+, Net+, and Cloud+. Continuously sharpening my skills in cybersecurity and system management.
-### 💡 Builder: I enjoy working on projects that combine creativity and technical expertise to deliver practical solutions.
+### About me
+I'm a graduating cybersecurity student focused on SOC analysis, threat detection, and incident response. I build home labs to practice Tier 1 analyst workflows — from SIEM deployment and alert triage to SOAR automation and case management. CompTIA Security+ certified, CySA+ in progress. Also a top-50 NCAA DIII 400m runner.
 
-## 🌟 Featured Projects
+---
 
-### 🏦 [Bank Simulation App](https://github.com/nolansf/Bank-App)
-Tech Stack: Fully in Java used with Terminal UI
-- Simulates essential banking operations like deposits, withdrawals, and account management.
-- Focused on providing a smooth, user-friendly interface via the terminal.
-- A great showcase of object-oriented programming and logical problem-solving.
+### Featured project — SOC Home Lab
 
-### 🔒 Cybersecurity Labs and Configurations
+**Threat Detection & Incident Response Simulation**
+> End-to-end Tier 1 SOC environment: SIEM, adversary emulation, case management, and automated alert triage
 
-- Firewall and Network Segmentation: Configured LAN segments for DMZ, internal networks, and management systems.
-- Suricata Integration: Implemented advanced intrusion detection/prevention systems.
-- Upcoming projects will include detailed documentation and how-tos!
+- Deployed **Wazuh** as SIEM/EDR, onboarded Windows 10 and Ubuntu endpoints, and wrote custom detection rules tuned to reduce false positives
+- Simulated **15+ MITRE ATT&CK techniques** using Atomic Red Team; triaged each alert through a documented analyst workflow
+- Integrated **TheHive** for case management and **Shuffle SOAR** to automate alert enrichment and ticket creation
 
-### [Manual ELK Stack](https://github.com/nolansf/ProjectHub/blob/main/Projects/Building%20SIEM)
-Tech Stack: Elasticsearch, Kibana, Logstash, and Filebeat
+`Wazuh` `TheHive` `Shuffle SOAR` `Atomic Red Team` `Sysmon` `VirtualBox`
 
-- Learn more about how ELK Stacks work
-- Learn how to better use terminal and going through documentation
+**[View repo](#)** · **[LinkedIn writeup](https://www.linkedin.com/in/nolan-flynn-478932301/)** · **[Medium article](#)**
 
-## 🛠️ Skills and Technologies
+---
 
-- Programming Languages: Java, Python, Bash, PowerShell
-- Cybersecurity Tools: Suricata, SIEM integration, SOAR systems
-- Systems Administration: Arch Linux, pfSense, Active Directory
-- Web Development: HTML, CSS, JavaScript
+### Other projects
 
-## 🎯 Goals for 2025
+| Project | Stack | Description |
+|---|---|---|
+| Phishing Analysis Lab | PhishTool, Any.run, VirusTotal | Analyzed 20+ real phishing samples; produced professional investigation reports |
+| AD + Splunk Detection | Splunk, Impacket, Sysmon | Simulated Kerberoasting and pass-the-hash; built SPL detection queries |
+| Network Segmentation & IDS | pfSense, Suricata, VLANs | Firewall + VLAN segmentation with tuned Suricata IDS rules |
+| ELK Stack SIEM | Elasticsearch, Kibana, Filebeat | Manual build with full documentation |
 
-1. Earn an internship in cybersecurity, focusing on incident response and penetration testing.
-2. Host a CTF challenge on CTFD.io, featuring engaging, multi-level tasks.
-3. Expand my GitHub portfolio with detailed documentation and new projects.
+---
 
-## 📫 Let's Connect!
+### Skills
+`Wazuh` `Splunk` `Suricata` `Sysmon` `TheHive` `SOAR` `Active Directory` `pfSense` `Wireshark` `MITRE ATT&CK` `Python` `PowerShell` `Bash`
 
-LinkedIn: [Nolan Flynn](https://www.linkedin.com/in/nolan-flynn-478932301/)
-Email: nsflynn@utica.edu
-Feel free to check out my repositories, and let's collaborate on something awesome!
+---
+
+### Connect
+- LinkedIn: [nolan-flynn-478932301](https://www.linkedin.com/in/nolan-flynn-478932301/)
+- Email: nolansf@dynoc.com
