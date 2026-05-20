@@ -30,7 +30,6 @@ I'm a graduating cybersecurity student focused on SOC analysis, threat detection
 
 | Project | Stack | Description |
 |---|---|---|
-| Phishing Analysis Lab | PhishTool, Any.run, VirusTotal | Analyzed 20+ real phishing samples; produced professional investigation reports |
 | AD + Splunk Detection | Splunk, Impacket, Sysmon | Simulated Kerberoasting and pass-the-hash; built SPL detection queries |
 | Network Segmentation & IDS | pfSense, Suricata, VLANs | Firewall + VLAN segmentation with tuned Suricata IDS rules |
 | ELK Stack SIEM | Elasticsearch, Kibana, Filebeat | Manual build with full documentation |
